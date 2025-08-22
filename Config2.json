@@ -1,5 +1,5 @@
 
 {
   "message": "You have been banned from Combat Warriors\nDuration: Permanent\nReason: You have been banned.\n\nYou can appeal in our Communications server\n(.gg/CombatWarriors).\n\nIMPORTANT: Appeals made after 30 days of the ban date will not be accepted\n\nYou currently have 0 previous ban(s). Repeated bans will be longer or permanent.",
-  "webhook": "Đã bắt được {username} id là {userid}\nProfile: {profile}"
+  "webhook": "Đã bắt được {username} ||| ID : {userid}\n"
 }
